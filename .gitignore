@@ -1,0 +1,19 @@
+# Datos pesados (se manejan en Google Drive, no en GitHub)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI temporales
+*.pbix.bak
+~$*.pbix
+
+# Sistema
+.DS_Store
+Thumbs.db
