@@ -21,7 +21,7 @@ descarga y limitaciones.
 
 | Integrante | Encargado de | Entrega |
 |---|---|---|
-| Persona 1 | Fuentes de datos | `documentacion_fuentes_mundial_2026.md` + archivos en Drive |
+| Edgar Rolando Ramirez Lopez | Fuentes de datos | `documentacion_fuentes_mundial_2026.md` + archivos en Drive |
 | Persona 2 | Limpieza y metodologia CRISP-DM | `notebooks/01_limpieza_datos.ipynb` -> dataset limpio |
 | Persona 3 | Modelo predictivo | `notebooks/02_modelo_predictivo.ipynb` -> prediccion de podio y probabilidades |
 | Persona 4 | Power BI e informe final | `notebooks/03_export_powerbi.ipynb` + `powerbi/dashboard_mundial_2026.pbix` |
