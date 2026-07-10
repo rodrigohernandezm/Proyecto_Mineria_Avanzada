@@ -1,0 +1,16 @@
+{
+  "responsable": "Persona 3",
+  "modelo_seleccionado": "gradient_boosting",
+  "n_partidos_entrenamiento_final": 48191,
+  "n_simulaciones": 5000,
+  "escenario_equipos": "Escenario proxy: 48 mejores selecciones por ranking FIFA disponible.",
+  "archivos_entrada": [
+    "..\\data\\processed\\clean_model_dataset.csv",
+    "..\\data\\processed\\team_features_2026.csv"
+  ],
+  "archivos_salida": [
+    "..\\outputs_powerbi\\team_probabilities.csv",
+    "..\\outputs_powerbi\\predicted_podium.csv",
+    "..\\outputs_powerbi\\model_metrics.csv"
+  ]
+}
