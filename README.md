@@ -73,6 +73,7 @@ Persona 3 ya fue ejecutada con los archivos procesados descargados del Drive:
 
 - `data/processed/clean_model_dataset.csv`
 - `data/processed/team_features_2026.csv`
+- `data/processed/world_cup_2026_teams.csv`
 
 El notebook `notebooks/02_modelo_predictivo.ipynb` entreno el modelo, evaluo varias alternativas y exporto
 los archivos livianos para Power BI en `outputs_powerbi/`.
@@ -94,35 +95,29 @@ Podio proyectado:
 
 | Posicion | Seleccion | Probabilidad |
 |---:|---|---:|
-| 1 | Argentina | 0.1564 |
-| 2 | Spain | 0.0570 |
-| 3 | France | 0.0666 |
-| 4 | Japan | 0.0392 |
+| 1 | Argentina | 0.1400 |
+| 2 | Portugal | 0.0542 |
+| 3 | Spain | 0.0650 |
+| 4 | Norway | 0.0414 |
 
 Metricas del mejor modelo:
 
 - `log_loss`: 0.874594
 - `accuracy`: 0.609088
 
-### Nota importante sobre el escenario
+### Escenario usado
 
-No se encontro `data/processed/world_cup_2026_teams.csv`. Por eso, Persona 3 uso un escenario proxy:
-las 48 mejores selecciones disponibles segun ranking FIFA en `team_features_2026.csv`.
+Persona 3 ya usa `data/processed/world_cup_2026_teams.csv`, con 48 selecciones distribuidas en 12 grupos
+de 4 equipos. El notebook respeta esos grupos para la fase de grupos y luego simula la eliminacion directa.
 
-Si el equipo consigue una lista oficial o definida de participantes, crear:
-
-```text
-data/processed/world_cup_2026_teams.csv
-```
-
-con una columna llamada:
+El archivo debe conservar estas columnas:
 
 ```text
-team
+group,team
 ```
 
-Luego volver a ejecutar `notebooks/02_modelo_predictivo.ipynb` para regenerar los CSV de
-`outputs_powerbi/` antes de actualizar Power BI.
+Si se modifica algun grupo o seleccion, volver a ejecutar `notebooks/02_modelo_predictivo.ipynb` para
+regenerar los CSV de `outputs_powerbi/` antes de actualizar Power BI.
 
 ## Recomendacion para el dashboard
 
