@@ -119,11 +119,86 @@ group,team
 Si se modifica algun grupo o seleccion, volver a ejecutar `notebooks/02_modelo_predictivo.ipynb` para
 regenerar los CSV de `outputs_powerbi/` antes de actualizar Power BI.
 
-## Recomendacion para el dashboard
 
-Para Persona 4, el dashboard puede organizarse en cuatro vistas:
+## Estado actual para Persona 4
 
-1. **Resumen del podio:** tarjetas o tabla con `predicted_podium.csv`.
-2. **Probabilidades por seleccion:** ranking con `team_probabilities.csv`, ordenado por `p_champion`.
-3. **Camino al titulo:** barras comparando `p_round32`, `p_round16`, `p_quarterfinal`, `p_semifinal`, `p_final` y `p_champion`.
-4. **Metodologia:** tabla simple con `model_metrics.csv` y nota del escenario desde `model_metadata.json`.
+Persona 3 ya fue ejecutada con los archivos procesados descargados del Drive:
+
+- `data/processed/clean_model_dataset.csv`
+- `data/processed/team_features_2026.csv`
+- `data/processed/world_cup_2026_teams.csv`
+
+El notebook `notebooks/02_modelo_predictivo.ipynb` entreno el modelo, evaluo varias alternativas y exporto
+los archivos livianos para Power BI en `outputs_powerbi/`.
+
+Persona 4 ya construyo el dashboard final en Power BI. El archivo entregable esta en:
+
+- `powerbi/Tablero.pbix`
+
+Tambien se agregaron archivos de apoyo para facilitar la carga y el formato del tablero:
+
+- `outputs_powerbi_es/`: copias de los CSV con delimitador `;` y decimales con coma, pensadas para Power BI con configuracion regional en espanol.
+- `powerbi/Medidas_DAX_Mundial_2026.dax`: medidas usadas para tarjetas, ranking, camino al titulo y metodologia.
+- `powerbi/tema_mundial_2026.json`: tema visual oscuro del reporte.
+
+### Archivos que debe consumir Power BI
+
+| Archivo | Uso sugerido en el dashboard |
+|---|---|
+| `outputs_powerbi/team_probabilities.csv` | Tabla principal por seleccion: probabilidades de avanzar a ronda de 32, octavos, cuartos, semifinal, final, campeon, subcampeon, tercer y cuarto lugar. |
+| `outputs_powerbi/predicted_podium.csv` | Visual del podio proyectado: campeon, subcampeon, tercer lugar y cuarto lugar. |
+| `outputs_powerbi/model_metrics.csv` | Tabla de respaldo metodologico: comparacion de modelos por `log_loss` y `accuracy`. |
+| `outputs_powerbi/model_metadata.json` | Metadatos del experimento: modelo seleccionado, numero de simulaciones, escenario usado y archivos de entrada/salida. |
+
+Si Power BI esta configurado en espanol, usar preferentemente los equivalentes en `outputs_powerbi_es/`, porque ya tienen separador `;` y coma decimal.
+
+### Resultado actual del modelo
+
+El mejor modelo seleccionado fue `gradient_boosting`.
+
+Podio proyectado:
+
+| Posicion | Seleccion | Probabilidad |
+|---:|---|---:|
+| 1 | Argentina | 0.1400 |
+| 2 | Portugal | 0.0542 |
+| 3 | Spain | 0.0650 |
+| 4 | Norway | 0.0414 |
+
+Metricas del mejor modelo:
+
+- `log_loss`: 0.874594
+- `accuracy`: 0.609088
+
+### Escenario usado
+
+Persona 3 ya usa `data/processed/world_cup_2026_teams.csv`, con 48 selecciones distribuidas en 12 grupos
+de 4 equipos. El notebook respeta esos grupos para la fase de grupos y luego simula la eliminacion directa.
+
+El archivo debe conservar estas columnas:
+
+```text
+group,team
+```
+
+Si se modifica algun grupo o seleccion, volver a ejecutar `notebooks/02_modelo_predictivo.ipynb` para
+regenerar los CSV de `outputs_powerbi/` antes de actualizar Power BI.
+
+## Dashboard entregado
+
+El dashboard de Power BI se organizo en cuatro vistas:
+
+1. **Resumen del podio:** tarjetas con campeon, subcampeon, tercer lugar y cuarto lugar desde `predicted_podium.csv`.
+2. **Probabilidades por seleccion:** segmentador de confederacion, tarjetas KPI, ranking por `p_champion` y tabla de detalle por seleccion.
+3. **Camino al titulo:** seguimiento por seleccion de `p_round32`, `p_round16`, `p_quarterfinal`, `p_semifinal`, `p_final` y `p_champion`.
+4. **Metodologia:** comparacion de modelos con `model_metrics.csv` y metadatos del experimento desde `model_metadata.json`.
+
+Valores principales del tablero:
+
+- Campeon proyectado: Argentina, 14.00%.
+- Subcampeon proyectado: Portugal, 5.42%.
+- Tercer lugar proyectado: Spain, 6.50%.
+- Cuarto lugar proyectado: Norway, 4.14%.
+- Modelo seleccionado: Gradient Boosting.
+- Simulaciones: 5,000.
+- Partidos de entrenamiento: 48,191.
