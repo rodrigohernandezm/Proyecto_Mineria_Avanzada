@@ -1,0 +1,289 @@
+﻿team;fifa_rank;fifa_points;elo_rating;confederation;round_code;probability;round;round_order
+Algeria;29;1576,803;1726,0;CAF;p_round32;0,6268;Ronda de 32;1
+Algeria;29;1576,803;1726,0;CAF;p_round16;0,295;Octavos;2
+Algeria;29;1576,803;1726,0;CAF;p_quarterfinal;0,1314;Cuartos de final;3
+Algeria;29;1576,803;1726,0;CAF;p_semifinal;0,0556;Semifinal;4
+Algeria;29;1576,803;1726,0;CAF;p_final;0,0186;Final;5
+Algeria;29;1576,803;1726,0;CAF;p_champion;0,005;Campeón;6
+Argentina;2;1925,149;2113,0;CONMEBOL;p_round32;0,989;Ronda de 32;1
+Argentina;2;1925,149;2113,0;CONMEBOL;p_round16;0,6154;Octavos;2
+Argentina;2;1925,149;2113,0;CONMEBOL;p_quarterfinal;0,422;Cuartos de final;3
+Argentina;2;1925,149;2113,0;CONMEBOL;p_semifinal;0,2854;Semifinal;4
+Argentina;2;1925,149;2113,0;CONMEBOL;p_final;0,195;Final;5
+Argentina;2;1925,149;2113,0;CONMEBOL;p_champion;0,14;Campeón;6
+Australia;28;1581,509;1774,0;AFC;p_round32;0,6482;Ronda de 32;1
+Australia;28;1581,509;1774,0;AFC;p_round16;0,2928;Octavos;2
+Australia;28;1581,509;1774,0;AFC;p_quarterfinal;0,1286;Cuartos de final;3
+Australia;28;1581,509;1774,0;AFC;p_semifinal;0,0516;Semifinal;4
+Australia;28;1581,509;1774,0;AFC;p_final;0,0188;Final;5
+Australia;28;1581,509;1774,0;AFC;p_champion;0,005;Campeón;6
+Austria;23;1598,823;1818,0;UEFA;p_round32;0,735;Ronda de 32;1
+Austria;23;1598,823;1818,0;UEFA;p_round16;0,3654;Octavos;2
+Austria;23;1598,823;1818,0;UEFA;p_quarterfinal;0,176;Cuartos de final;3
+Austria;23;1598,823;1818,0;UEFA;p_semifinal;0,0812;Semifinal;4
+Austria;23;1598,823;1818,0;UEFA;p_final;0,0352;Final;5
+Austria;23;1598,823;1818,0;UEFA;p_champion;0,0086;Campeón;6
+Belgium;8;1778,355;1849,0;UEFA;p_round32;0,9636;Ronda de 32;1
+Belgium;8;1778,355;1849,0;UEFA;p_round16;0,4634;Octavos;2
+Belgium;8;1778,355;1849,0;UEFA;p_quarterfinal;0,2188;Cuartos de final;3
+Belgium;8;1778,355;1849,0;UEFA;p_semifinal;0,0998;Semifinal;4
+Belgium;8;1778,355;1849,0;UEFA;p_final;0,048;Final;5
+Belgium;8;1778,355;1849,0;UEFA;p_champion;0,0232;Campeón;6
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_round32;0,4918;Ronda de 32;1
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_round16;0,1822;Octavos;2
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_quarterfinal;0,0568;Cuartos de final;3
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_semifinal;0,0142;Semifinal;4
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_final;0,004;Final;5
+Bosnia and Herzegovina;61;1408,93;1571,0;UEFA;p_champion;0,0004;Campeón;6
+Brazil;5;1804,923;1979,0;CONMEBOL;p_round32;0,9504;Ronda de 32;1
+Brazil;5;1804,923;1979,0;CONMEBOL;p_round16;0,5212;Octavos;2
+Brazil;5;1804,923;1979,0;CONMEBOL;p_quarterfinal;0,2934;Cuartos de final;3
+Brazil;5;1804,923;1979,0;CONMEBOL;p_semifinal;0,1594;Semifinal;4
+Brazil;5;1804,923;1979,0;CONMEBOL;p_final;0,0748;Final;5
+Brazil;5;1804,923;1979,0;CONMEBOL;p_champion;0,0394;Campeón;6
+Canada;30;1571,341;1802,0;CONCACAF;p_round32;0,9306;Ronda de 32;1
+Canada;30;1571,341;1802,0;CONCACAF;p_round16;0,4596;Octavos;2
+Canada;30;1571,341;1802,0;CONCACAF;p_quarterfinal;0,2034;Cuartos de final;3
+Canada;30;1571,341;1802,0;CONCACAF;p_semifinal;0,092;Semifinal;4
+Canada;30;1571,341;1802,0;CONCACAF;p_final;0,0398;Final;5
+Canada;30;1571,341;1802,0;CONCACAF;p_champion;0,0132;Campeón;6
+Cape Verde;64;1402,966;1560,0;CAF;p_round32;0,262;Ronda de 32;1
+Cape Verde;64;1402,966;1560,0;CAF;p_round16;0,0898;Octavos;2
+Cape Verde;64;1402,966;1560,0;CAF;p_quarterfinal;0,0278;Cuartos de final;3
+Cape Verde;64;1402,966;1560,0;CAF;p_semifinal;0,0072;Semifinal;4
+Cape Verde;64;1402,966;1560,0;CAF;p_final;0,0012;Final;5
+Cape Verde;64;1402,966;1560,0;CAF;p_champion;0,0002;Campeón;6
+Colombia;11;1739,895;1998,0;CONMEBOL;p_round32;0,9416;Ronda de 32;1
+Colombia;11;1739,895;1998,0;CONMEBOL;p_round16;0,56;Octavos;2
+Colombia;11;1739,895;1998,0;CONMEBOL;p_quarterfinal;0,3276;Cuartos de final;3
+Colombia;11;1739,895;1998,0;CONMEBOL;p_semifinal;0,1878;Semifinal;4
+Colombia;11;1739,895;1998,0;CONMEBOL;p_final;0,1072;Final;5
+Colombia;11;1739,895;1998,0;CONMEBOL;p_champion;0,0592;Campeón;6
+Croatia;13;1723,05;1933,0;UEFA;p_round32;0,9206;Ronda de 32;1
+Croatia;13;1723,05;1933,0;UEFA;p_round16;0,4504;Octavos;2
+Croatia;13;1723,05;1933,0;UEFA;p_quarterfinal;0,2204;Cuartos de final;3
+Croatia;13;1723,05;1933,0;UEFA;p_semifinal;0,1056;Semifinal;4
+Croatia;13;1723,05;1933,0;UEFA;p_final;0,0446;Final;5
+Croatia;13;1723,05;1933,0;UEFA;p_champion;0,02;Campeón;6
+Curaçao;82;1285,644;1467,0;CONCACAF;p_round32;0,1466;Ronda de 32;1
+Curaçao;82;1285,644;1467,0;CONCACAF;p_round16;0,0372;Octavos;2
+Curaçao;82;1285,644;1467,0;CONCACAF;p_quarterfinal;0,0084;Cuartos de final;3
+Curaçao;82;1285,644;1467,0;CONCACAF;p_semifinal;0,0014;Semifinal;4
+Curaçao;82;1285,644;1467,0;CONCACAF;p_final;0,0;Final;5
+Curaçao;82;1285,644;1467,0;CONCACAF;p_champion;0,0;Campeón;6
+Czech Republic;48;1467,26;1731,0;UEFA;p_round32;0,6932;Ronda de 32;1
+Czech Republic;48;1467,26;1731,0;UEFA;p_round16;0,334;Octavos;2
+Czech Republic;48;1467,26;1731,0;UEFA;p_quarterfinal;0,1392;Cuartos de final;3
+Czech Republic;48;1467,26;1731,0;UEFA;p_semifinal;0,0608;Semifinal;4
+Czech Republic;48;1467,26;1731,0;UEFA;p_final;0,0236;Final;5
+Czech Republic;48;1467,26;1731,0;UEFA;p_champion;0,006;Campeón;6
+DR Congo;41;1495,477;1616,0;CAF;p_round32;0,4612;Ronda de 32;1
+DR Congo;41;1495,477;1616,0;CAF;p_round16;0,1938;Octavos;2
+DR Congo;41;1495,477;1616,0;CAF;p_quarterfinal;0,0768;Cuartos de final;3
+DR Congo;41;1495,477;1616,0;CAF;p_semifinal;0,0294;Semifinal;4
+DR Congo;41;1495,477;1616,0;CAF;p_final;0,006;Final;5
+DR Congo;41;1495,477;1616,0;CAF;p_champion;0,0008;Campeón;6
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_round32;0,9502;Ronda de 32;1
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_round16;0,5216;Octavos;2
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_quarterfinal;0,2742;Cuartos de final;3
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_semifinal;0,1292;Semifinal;4
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_final;0,0642;Final;5
+Ecuador;25;1592,589;1933,0;CONMEBOL;p_champion;0,0254;Campeón;6
+Egypt;24;1597,044;1591,0;CAF;p_round32;0,6506;Ronda de 32;1
+Egypt;24;1597,044;1591,0;CAF;p_round16;0,2384;Octavos;2
+Egypt;24;1597,044;1591,0;CAF;p_quarterfinal;0,0904;Cuartos de final;3
+Egypt;24;1597,044;1591,0;CAF;p_semifinal;0,0326;Semifinal;4
+Egypt;24;1597,044;1591,0;CAF;p_final;0,0116;Final;5
+Egypt;24;1597,044;1591,0;CAF;p_champion;0,0018;Campeón;6
+England;4;1871,385;2042,0;UEFA;p_round32;0,9824;Ronda de 32;1
+England;4;1871,385;2042,0;UEFA;p_round16;0,5394;Octavos;2
+England;4;1871,385;2042,0;UEFA;p_quarterfinal;0,31;Cuartos de final;3
+England;4;1871,385;2042,0;UEFA;p_semifinal;0,1768;Semifinal;4
+England;4;1871,385;2042,0;UEFA;p_final;0,0976;Final;5
+England;4;1871,385;2042,0;UEFA;p_champion;0,0616;Campeón;6
+France;1;1925,861;2062,0;UEFA;p_round32;0,9814;Ronda de 32;1
+France;1;1925,861;2062,0;UEFA;p_round16;0,602;Octavos;2
+France;1;1925,861;2062,0;UEFA;p_quarterfinal;0,3794;Cuartos de final;3
+France;1;1925,861;2062,0;UEFA;p_semifinal;0,2344;Semifinal;4
+France;1;1925,861;2062,0;UEFA;p_final;0,1454;Final;5
+France;1;1925,861;2062,0;UEFA;p_champion;0,0992;Campeón;6
+Germany;12;1726,219;1910,0;UEFA;p_round32;0,9688;Ronda de 32;1
+Germany;12;1726,219;1910,0;UEFA;p_round16;0,5432;Octavos;2
+Germany;12;1726,219;1910,0;UEFA;p_quarterfinal;0,296;Cuartos de final;3
+Germany;12;1726,219;1910,0;UEFA;p_semifinal;0,1558;Semifinal;4
+Germany;12;1726,219;1910,0;UEFA;p_final;0,079;Final;5
+Germany;12;1726,219;1910,0;UEFA;p_champion;0,042;Campeón;6
+Ghana;65;1387,001;1509,0;CAF;p_round32;0,1438;Ronda de 32;1
+Ghana;65;1387,001;1509,0;CAF;p_round16;0,0434;Octavos;2
+Ghana;65;1387,001;1509,0;CAF;p_quarterfinal;0,011;Cuartos de final;3
+Ghana;65;1387,001;1509,0;CAF;p_semifinal;0,0024;Semifinal;4
+Ghana;65;1387,001;1509,0;CAF;p_final;0,0004;Final;5
+Ghana;65;1387,001;1509,0;CAF;p_champion;0,0;Campeón;6
+Haiti;88;1264,578;1542,0;CONCACAF;p_round32;0,1586;Ronda de 32;1
+Haiti;88;1264,578;1542,0;CONCACAF;p_round16;0,0508;Octavos;2
+Haiti;88;1264,578;1542,0;CONCACAF;p_quarterfinal;0,0158;Cuartos de final;3
+Haiti;88;1264,578;1542,0;CONCACAF;p_semifinal;0,0048;Semifinal;4
+Haiti;88;1264,578;1542,0;CONCACAF;p_final;0,0008;Final;5
+Haiti;88;1264,578;1542,0;CONCACAF;p_champion;0,0004;Campeón;6
+Iran;22;1609,845;1754,0;AFC;p_round32;0,8414;Ronda de 32;1
+Iran;22;1609,845;1754,0;AFC;p_round16;0,408;Octavos;2
+Iran;22;1609,845;1754,0;AFC;p_quarterfinal;0,1928;Cuartos de final;3
+Iran;22;1609,845;1754,0;AFC;p_semifinal;0,0848;Semifinal;4
+Iran;22;1609,845;1754,0;AFC;p_final;0,0424;Final;5
+Iran;22;1609,845;1754,0;AFC;p_champion;0,0138;Campeón;6
+Iraq;63;1404,173;1582,0;AFC;p_round32;0,1282;Ronda de 32;1
+Iraq;63;1404,173;1582,0;AFC;p_round16;0,0432;Octavos;2
+Iraq;63;1404,173;1582,0;AFC;p_quarterfinal;0,0098;Cuartos de final;3
+Iraq;63;1404,173;1582,0;AFC;p_semifinal;0,0018;Semifinal;4
+Iraq;63;1404,173;1582,0;AFC;p_final;0,0;Final;5
+Iraq;63;1404,173;1582,0;AFC;p_champion;0,0;Campeón;6
+Ivory Coast;31;1565,474;1607,0;CAF;p_round32;0,6008;Ronda de 32;1
+Ivory Coast;31;1565,474;1607,0;CAF;p_round16;0,2342;Octavos;2
+Ivory Coast;31;1565,474;1607,0;CAF;p_quarterfinal;0,085;Cuartos de final;3
+Ivory Coast;31;1565,474;1607,0;CAF;p_semifinal;0,0302;Semifinal;4
+Ivory Coast;31;1565,474;1607,0;CAF;p_final;0,0088;Final;5
+Ivory Coast;31;1565,474;1607,0;CAF;p_champion;0,0018;Campeón;6
+Japan;17;1673,677;1878,0;AFC;p_round32;0,9152;Ronda de 32;1
+Japan;17;1673,677;1878,0;AFC;p_round16;0,5156;Octavos;2
+Japan;17;1673,677;1878,0;AFC;p_quarterfinal;0,2662;Cuartos de final;3
+Japan;17;1673,677;1878,0;AFC;p_semifinal;0,1358;Semifinal;4
+Japan;17;1673,677;1878,0;AFC;p_final;0,0658;Final;5
+Japan;17;1673,677;1878,0;AFC;p_champion;0,0282;Campeón;6
+Jordan;73;1350,412;1687,0;AFC;p_round32;0,276;Ronda de 32;1
+Jordan;73;1350,412;1687,0;AFC;p_round16;0,107;Octavos;2
+Jordan;73;1350,412;1687,0;AFC;p_quarterfinal;0,037;Cuartos de final;3
+Jordan;73;1350,412;1687,0;AFC;p_semifinal;0,014;Semifinal;4
+Jordan;73;1350,412;1687,0;AFC;p_final;0,0042;Final;5
+Jordan;73;1350,412;1687,0;AFC;p_champion;0,0008;Campeón;6
+Mexico;10;1754,297;1835,0;CONCACAF;p_round32;0,9186;Ronda de 32;1
+Mexico;10;1754,297;1835,0;CONCACAF;p_round16;0,4532;Octavos;2
+Mexico;10;1754,297;1835,0;CONCACAF;p_quarterfinal;0,226;Cuartos de final;3
+Mexico;10;1754,297;1835,0;CONCACAF;p_semifinal;0,108;Semifinal;4
+Mexico;10;1754,297;1835,0;CONCACAF;p_final;0,0484;Final;5
+Mexico;10;1754,297;1835,0;CONCACAF;p_champion;0,023;Campeón;6
+Morocco;6;1803,988;1830,0;CAF;p_round32;0,9194;Ronda de 32;1
+Morocco;6;1803,988;1830,0;CAF;p_round16;0,471;Octavos;2
+Morocco;6;1803,988;1830,0;CAF;p_quarterfinal;0,2502;Cuartos de final;3
+Morocco;6;1803,988;1830,0;CAF;p_semifinal;0,1284;Semifinal;4
+Morocco;6;1803,988;1830,0;CAF;p_final;0,068;Final;5
+Morocco;6;1803,988;1830,0;CAF;p_champion;0,0282;Campeón;6
+Netherlands;9;1775,542;1959,0;UEFA;p_round32;0,9428;Ronda de 32;1
+Netherlands;9;1775,542;1959,0;UEFA;p_round16;0,5026;Octavos;2
+Netherlands;9;1775,542;1959,0;UEFA;p_quarterfinal;0,2586;Cuartos de final;3
+Netherlands;9;1775,542;1959,0;UEFA;p_semifinal;0,1296;Semifinal;4
+Netherlands;9;1775,542;1959,0;UEFA;p_final;0,0674;Final;5
+Netherlands;9;1775,542;1959,0;UEFA;p_champion;0,0318;Campeón;6
+New Zealand;86;1269,802;1586,0;OFC;p_round32;0,2258;Ronda de 32;1
+New Zealand;86;1269,802;1586,0;OFC;p_round16;0,0696;Octavos;2
+New Zealand;86;1269,802;1586,0;OFC;p_quarterfinal;0,0194;Cuartos de final;3
+New Zealand;86;1269,802;1586,0;OFC;p_semifinal;0,0052;Semifinal;4
+New Zealand;86;1269,802;1586,0;OFC;p_final;0,0018;Final;5
+New Zealand;86;1269,802;1586,0;OFC;p_champion;0,0002;Campeón;6
+Norway;19;1651,287;1922,0;UEFA;p_round32;0,8778;Ronda de 32;1
+Norway;19;1651,287;1922,0;UEFA;p_round16;0,4864;Octavos;2
+Norway;19;1651,287;1922,0;UEFA;p_quarterfinal;0,2596;Cuartos de final;3
+Norway;19;1651,287;1922,0;UEFA;p_semifinal;0,1378;Semifinal;4
+Norway;19;1651,287;1922,0;UEFA;p_final;0,065;Final;5
+Norway;19;1651,287;1922,0;UEFA;p_champion;0,0254;Campeón;6
+Panama;44;1478,411;1742,0;CONCACAF;p_round32;0,5752;Ronda de 32;1
+Panama;44;1478,411;1742,0;CONCACAF;p_round16;0,2548;Octavos;2
+Panama;44;1478,411;1742,0;CONCACAF;p_quarterfinal;0,109;Cuartos de final;3
+Panama;44;1478,411;1742,0;CONCACAF;p_semifinal;0,0352;Semifinal;4
+Panama;44;1478,411;1742,0;CONCACAF;p_final;0,0102;Final;5
+Panama;44;1478,411;1742,0;CONCACAF;p_champion;0,0022;Campeón;6
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_round32;0,6688;Ronda de 32;1
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_round16;0,332;Octavos;2
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_quarterfinal;0,1492;Cuartos de final;3
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_semifinal;0,0748;Semifinal;4
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_final;0,0288;Final;5
+Paraguay;34;1542,476;1833,0;CONMEBOL;p_champion;0,01;Campeón;6
+Portugal;7;1787,855;1976,0;UEFA;p_round32;0,959;Ronda de 32;1
+Portugal;7;1787,855;1976,0;UEFA;p_round16;0,5754;Octavos;2
+Portugal;7;1787,855;1976,0;UEFA;p_quarterfinal;0,344;Cuartos de final;3
+Portugal;7;1787,855;1976,0;UEFA;p_semifinal;0,1998;Semifinal;4
+Portugal;7;1787,855;1976,0;UEFA;p_final;0,1192;Final;5
+Portugal;7;1787,855;1976,0;UEFA;p_champion;0,065;Campeón;6
+Qatar;59;1411,064;1427,0;AFC;p_round32;0,2036;Ronda de 32;1
+Qatar;59;1411,064;1427,0;AFC;p_round16;0,0524;Octavos;2
+Qatar;59;1411,064;1427,0;AFC;p_quarterfinal;0,0088;Cuartos de final;3
+Qatar;59;1411,064;1427,0;AFC;p_semifinal;0,0006;Semifinal;4
+Qatar;59;1411,064;1427,0;AFC;p_final;0,0;Final;5
+Qatar;59;1411,064;1427,0;AFC;p_champion;0,0;Campeón;6
+Saudi Arabia;58;1425,515;1612,0;AFC;p_round32;0,3788;Ronda de 32;1
+Saudi Arabia;58;1425,515;1612,0;AFC;p_round16;0,148;Octavos;2
+Saudi Arabia;58;1425,515;1612,0;AFC;p_quarterfinal;0,0476;Cuartos de final;3
+Saudi Arabia;58;1425,515;1612,0;AFC;p_semifinal;0,0144;Semifinal;4
+Saudi Arabia;58;1425,515;1612,0;AFC;p_final;0,0036;Final;5
+Saudi Arabia;58;1425,515;1612,0;AFC;p_champion;0,0002;Campeón;6
+Scotland;42;1491,224;1790,0;UEFA;p_round32;0,6788;Ronda de 32;1
+Scotland;42;1491,224;1790,0;UEFA;p_round16;0,3562;Octavos;2
+Scotland;42;1491,224;1790,0;UEFA;p_quarterfinal;0,1754;Cuartos de final;3
+Scotland;42;1491,224;1790,0;UEFA;p_semifinal;0,0824;Semifinal;4
+Scotland;42;1491,224;1790,0;UEFA;p_final;0,028;Final;5
+Scotland;42;1491,224;1790,0;UEFA;p_champion;0,0058;Campeón;6
+Senegal;18;1653,429;1803,0;CAF;p_round32;0,6972;Ronda de 32;1
+Senegal;18;1653,429;1803,0;CAF;p_round16;0,3344;Octavos;2
+Senegal;18;1653,429;1803,0;CAF;p_quarterfinal;0,1574;Cuartos de final;3
+Senegal;18;1653,429;1803,0;CAF;p_semifinal;0,0694;Semifinal;4
+Senegal;18;1653,429;1803,0;CAF;p_final;0,0294;Final;5
+Senegal;18;1653,429;1803,0;CAF;p_champion;0,0068;Campeón;6
+South Africa;54;1451,242;1531,0;CAF;p_round32;0,223;Ronda de 32;1
+South Africa;54;1451,242;1531,0;CAF;p_round16;0,0814;Octavos;2
+South Africa;54;1451,242;1531,0;CAF;p_quarterfinal;0,0262;Cuartos de final;3
+South Africa;54;1451,242;1531,0;CAF;p_semifinal;0,0086;Semifinal;4
+South Africa;54;1451,242;1531,0;CAF;p_final;0,0024;Final;5
+South Africa;54;1451,242;1531,0;CAF;p_champion;0,0;Campeón;6
+South Korea;32;1558,719;1784,0;AFC;p_round32;0,8486;Ronda de 32;1
+South Korea;32;1558,719;1784,0;AFC;p_round16;0,4206;Octavos;2
+South Korea;32;1558,719;1784,0;AFC;p_quarterfinal;0,199;Cuartos de final;3
+South Korea;32;1558,719;1784,0;AFC;p_semifinal;0,0906;Semifinal;4
+South Korea;32;1558,719;1784,0;AFC;p_final;0,041;Final;5
+South Korea;32;1558,719;1784,0;AFC;p_champion;0,0124;Campeón;6
+Spain;3;1912,339;2171,0;UEFA;p_round32;0,9942;Ronda de 32;1
+Spain;3;1912,339;2171,0;UEFA;p_round16;0,6254;Octavos;2
+Spain;3;1912,339;2171,0;UEFA;p_quarterfinal;0,4074;Cuartos de final;3
+Spain;3;1912,339;2171,0;UEFA;p_semifinal;0,2598;Semifinal;4
+Spain;3;1912,339;2171,0;UEFA;p_final;0,1744;Final;5
+Spain;3;1912,339;2171,0;UEFA;p_champion;0,122;Campeón;6
+Sweden;37;1525,579;1660,0;UEFA;p_round32;0,5244;Ronda de 32;1
+Sweden;37;1525,579;1660,0;UEFA;p_round16;0,202;Octavos;2
+Sweden;37;1525,579;1660,0;UEFA;p_quarterfinal;0,068;Cuartos de final;3
+Sweden;37;1525,579;1660,0;UEFA;p_semifinal;0,021;Semifinal;4
+Sweden;37;1525,579;1660,0;UEFA;p_final;0,0048;Final;5
+Sweden;37;1525,579;1660,0;UEFA;p_champion;0,0012;Campeón;6
+Switzerland;14;1710,885;1897,0;UEFA;p_round32;0,9734;Ronda de 32;1
+Switzerland;14;1710,885;1897,0;UEFA;p_round16;0,4818;Octavos;2
+Switzerland;14;1710,885;1897,0;UEFA;p_quarterfinal;0,2364;Cuartos de final;3
+Switzerland;14;1710,885;1897,0;UEFA;p_semifinal;0,11;Semifinal;4
+Switzerland;14;1710,885;1897,0;UEFA;p_final;0,0498;Final;5
+Switzerland;14;1710,885;1897,0;UEFA;p_champion;0,0248;Campeón;6
+Tunisia;57;1426,584;1641,0;CAF;p_round32;0,2982;Ronda de 32;1
+Tunisia;57;1426,584;1641,0;CAF;p_round16;0,1078;Octavos;2
+Tunisia;57;1426,584;1641,0;CAF;p_quarterfinal;0,036;Cuartos de final;3
+Tunisia;57;1426,584;1641,0;CAF;p_semifinal;0,0102;Semifinal;4
+Tunisia;57;1426,584;1641,0;CAF;p_final;0,002;Final;5
+Tunisia;57;1426,584;1641,0;CAF;p_champion;0,0004;Campeón;6
+Turkey;27;1582,545;1880,0;UEFA;p_round32;0,8916;Ronda de 32;1
+Turkey;27;1582,545;1880,0;UEFA;p_round16;0,482;Octavos;2
+Turkey;27;1582,545;1880,0;UEFA;p_quarterfinal;0,2444;Cuartos de final;3
+Turkey;27;1582,545;1880,0;UEFA;p_semifinal;0,1188;Semifinal;4
+Turkey;27;1582,545;1880,0;UEFA;p_final;0,0554;Final;5
+Turkey;27;1582,545;1880,0;UEFA;p_champion;0,0266;Campeón;6
+United States;16;1690,33;1747,0;CONCACAF;p_round32;0,6298;Ronda de 32;1
+United States;16;1690,33;1747,0;CONCACAF;p_round16;0,2574;Octavos;2
+United States;16;1690,33;1747,0;CONCACAF;p_quarterfinal;0,1034;Cuartos de final;3
+United States;16;1690,33;1747,0;CONCACAF;p_semifinal;0,0416;Semifinal;4
+United States;16;1690,33;1747,0;CONCACAF;p_final;0,0112;Final;5
+United States;16;1690,33;1747,0;CONCACAF;p_champion;0,0022;Campeón;6
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_round32;0,905;Ronda de 32;1
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_round16;0,4566;Octavos;2
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_quarterfinal;0,2228;Cuartos de final;3
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_semifinal;0,1014;Semifinal;4
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_final;0,046;Final;5
+Uruguay;20;1634,704;1890,0;CONMEBOL;p_champion;0,014;Campeón;6
+Uzbekistan;60;1409,73;1735,0;AFC;p_round32;0,308;Ronda de 32;1
+Uzbekistan;60;1409,73;1735,0;AFC;p_round16;0,142;Octavos;2
+Uzbekistan;60;1409,73;1735,0;AFC;p_quarterfinal;0,053;Cuartos de final;3
+Uzbekistan;60;1409,73;1735,0;AFC;p_semifinal;0,0184;Semifinal;4
+Uzbekistan;60;1409,73;1735,0;AFC;p_final;0,0062;Final;5
+Uzbekistan;60;1409,73;1735,0;AFC;p_champion;0,0018;Campeón;6
