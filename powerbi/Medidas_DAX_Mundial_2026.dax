@@ -1,0 +1,48 @@
+-- Medidas para team_probabilities
+
+Prob Campeon % =
+MAX ( team_probabilities[p_champion] )
+
+Prob Final % =
+MAX ( team_probabilities[p_final] )
+
+Prob Semifinal % =
+MAX ( team_probabilities[p_semifinal] )
+
+Prob Cuartos % =
+MAX ( team_probabilities[p_quarterfinal] )
+
+Prob Octavos % =
+MAX ( team_probabilities[p_round16] )
+
+Prob Ronda 32 % =
+MAX ( team_probabilities[p_round32] )
+
+Ranking FIFA Seleccion =
+MIN ( team_probabilities[fifa_rank] )
+
+Elo Seleccion =
+MAX ( team_probabilities[elo_rating] )
+
+Confederacion Seleccion =
+SELECTEDVALUE ( team_probabilities[confederation], "Todas" )
+
+Promedio FIFA Rank =
+AVERAGE ( team_probabilities[fifa_rank] )
+
+Promedio Elo =
+AVERAGE ( team_probabilities[elo_rating] )
+
+Promedio Prob Campeon =
+AVERAGE ( team_probabilities[p_champion] )
+
+Top Prob Campeon =
+MAX ( team_probabilities[p_champion] )
+
+-- Medidas para model_metrics
+
+Accuracy % =
+MAX ( model_metrics[accuracy] )
+
+Log Loss =
+MAX ( model_metrics[log_loss] )
